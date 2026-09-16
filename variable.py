@@ -59,3 +59,5 @@ stdName = ["Chetan", "Yogesh", "Nilima", "Shivani", "Mayur","Pratiksha", "Lankes
 stdName[0] = 1
 print(stdName)
 print("-----------")
+
+print("this is python")
