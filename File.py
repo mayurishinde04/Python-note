@@ -92,7 +92,15 @@ print(type(x))
 print("-----------------")
 
 
-#
+#Write a Python program to check whether a number is between 10 and 100 or equal to 500.
+
+num = int(input("Enter a number: "))
+
+if (num >= 10 and num <= 100) or num == 500:
+    print("Number is between 10 and 100 or equal to 500")
+else:
+    print("Number does not satisfy the condition")
+    print("----------------")
 
 
 
